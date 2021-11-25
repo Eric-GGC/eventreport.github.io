@@ -1,0 +1,32 @@
+.banner{
+    background-image: url("https://res.cloudinary.com/dvl0zbtvn/image/upload/v1637836391/writing%20web/5_phnfps.jpg");
+    background-size: cover;
+    height: 100vh;
+    background-position: 0px -100px;
+    background-size: 100%;
+}
+
+.display-4{
+    padding-top: 150px;
+}
+
+.bg-image1{
+    background-image: url("https://res.cloudinary.com/dvl0zbtvn/image/upload/v1637836392/writing%20web/1_gniwlz.jpg");
+    background-size: cover;
+    height: 80vh;
+    background-position: 0px -180px;
+}
+
+.bg-image2{
+    background-image: url("https://res.cloudinary.com/dvl0zbtvn/image/upload/v1637836391/writing%20web/6_wbkoa4.jpg");
+    background-size: cover;
+    height: 90vh;
+    background-position: 0px -30px;
+}
+
+.bg-image3{
+    background-image: url("https://res.cloudinary.com/dvl0zbtvn/image/upload/v1637839410/writing%20web/8_kiqsnc.jpg");
+    background-size: cover;
+    height: 90vh;
+    background-position: 0px -50px;
+}
